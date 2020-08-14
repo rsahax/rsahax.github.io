@@ -1,5 +1,6 @@
 title: Rahul Saha # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/profile_circle-min(1).png"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello there 
   <br><br>
