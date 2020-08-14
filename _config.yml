@@ -1,5 +1,6 @@
 title: Rahul Saha # your name (or website title) here
 #logo: "/images/logo.png?raw=true" # your photo (or logo) here
+markdown: GFM
 logo: "/images/profile_circle-min(1).png"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello there 
@@ -9,5 +10,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-markdown: GFM
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
