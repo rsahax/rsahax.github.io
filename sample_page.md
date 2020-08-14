@@ -1,31 +1,31 @@
-## This can be your internal website page / project page
+# LaTeX Concealer for Sublime-Text-3
+LaTeX concealer for sublime-text-3
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![LaTeX concealer demo](https://github.com/rah4927/demo/blob/master/conceal_tex.gif)
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+This is a personal project to replicate some of vim's <b>conceal</b> features in sublime text 3. The current version uses a combination of syntax fold, manipulating the color of the fold icon, and phantom objects in sublime to conceal code. Working on making it real-time, and adding more LaTeX substitutions.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+## How To Use 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+1. Download and put the files in ```~/.config/sublime-text-3/Packages/User```. 
+2. Edit the user defined keybindings file and add  ``` { "keys": ["ctrl+shift+d"], "command": "texconceal" } ```
+3. Now edit your TeX file, and use the keybinding in the line you want to conceal. 
 
-### 2. Assess assumptions on which statistical inference will be based
+## Tips 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+In order to make folding distraction free, try looking up the background color in your color scheme and change the fold icon to have the same color. This makes it coalesce with the background.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+## Editing 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+If you want to edit the files as your own, here is a brief explanation of the files: 
 
-### 4. Provide a basis for further data collection through surveys or experiments
+1. ```latexparser.py``` is a DFA that takes in a latex command and separates it into <b>commands</b> and <b>arguments</b> 
+2. ```latex2utf.py``` takes in a latex command and translates it into UTF-8 
+3. ```TeXconceal.py``` is the plugin that defines the text command ```texconceal``` 
+4. ```behindFold.py``` is an additional plugin that prevents folded text from being deleted 
+5. ```LaTeX substitutions.json``` contains a dictionary of commands and substitutions 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+## Shortcomings 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. No real-time sync 
+2. I haven't hardcoded behviour of ```\text{}, \frac{}{}, \dfrac{}{}``` yet  
