@@ -1,7 +1,7 @@
 # LaTeX Concealer for Sublime-Text-3
 LaTeX concealer for sublime-text-3
 
-#<img src="https://github.com/rah4927/demo/blob/master/conceal_tex.gif" width="500" height="100"/>
+<img src = "images/conceal_tex.gif?raw=true"/> 
 
 <img src = "images/profile_circle-min(1).png?raw=true"/> 
 
