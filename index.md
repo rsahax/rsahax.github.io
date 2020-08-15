@@ -8,8 +8,8 @@
 <img src="images/conceal_tex.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sum of Squares Wallpaper](/pdf/sample_presentation.pdf)
+<img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
