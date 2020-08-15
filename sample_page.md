@@ -3,7 +3,7 @@ LaTeX concealer for sublime-text-3
 
 <img src="https://github.com/rah4927/demo/blob/master/conceal_tex.gif" width="500" height="100"/>
 
-![Alt text here](https://github.com/rsahax/rsahax.github.io/blob/master/images/profile_circle.png) 
+<img src = "https://github.com/rah4927/demo/blob/master/wallpaper_art_1.png" width = "500" height = "500"/>
 
 This is new text (2)
 
