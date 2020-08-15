@@ -1,11 +1,11 @@
 # LaTeX Concealer for Sublime-Text-3
 LaTeX concealer for sublime-text-3
 
-<img src="https://github.com/rah4927/demo/blob/master/conceal_tex.gif" width="500" height="100"/>
+#<img src="https://github.com/rah4927/demo/blob/master/conceal_tex.gif" width="500" height="100"/>
 
-<img src = "https://github.com/rah4927/demo/blob/master/wallpaper_art_1.png" width = "500" height = "500"/>
+<img src = "images/profile_circle-min(1).png?raw=true"/> 
 
-This is new text (2)
+This is new text (3)
 
 This is a personal project to replicate some of vim's <b>conceal</b> features in sublime text 3. The current version uses a combination of syntax fold, manipulating the color of the fold icon, and phantom objects in sublime to conceal code. Working on making it real-time, and adding more LaTeX substitutions.
 
