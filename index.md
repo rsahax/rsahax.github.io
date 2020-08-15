@@ -12,7 +12,7 @@
 <img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
-[Telegram StackExchange query Bot](http://example.com/)
+[Telegram StackExchange Bot](http://example.com/)
 <img src="images/telegram_bot.png?raw=true"/>
 
 ---
@@ -21,7 +21,7 @@
 
 - [LaTeX concealer for Sublime Text 3](http://example.com/)
 - [Sum of Squares Wallpaper](http://example.com/)
-- [Telegram StackExchange query Bot](http://example.com/)
+- [Telegram StackExchange Bot](http://example.com/)
 
 
 ---
