@@ -13,7 +13,7 @@
 
 ---
 [Telegram StackExchange query Bot](http://example.com/)
-<img src="images/telegram_bot.jpg?raw=true"/>
+<img src="images/telegram_bot.png?raw=true"/>
 
 ---
 
