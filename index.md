@@ -8,7 +8,7 @@
 <img src="images/conceal_tex.gif?raw=true"/>
 
 ---
-[Sum of Squares Wallpaper](/pdf/sample_presentation.pdf)
+[Contour Art: Sum of Squares](/SOS_wallpaper)
 <img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
