@@ -17,6 +17,10 @@ Based on work done freshman summer. Used GCP to train a model that implements pr
 <img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
+[Telegram Bot StackExchange](/telegram_bot)
+<img src="images/telegram_bot.png?raw=true"/>
+
+---
 ### Mathematics 
 [Representation Theory Summer Seminar Notes](/pdf/rep_theory.pdf)
 
