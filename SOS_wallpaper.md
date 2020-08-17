@@ -23,10 +23,14 @@ for various integers p. It turns out that this equation has non trivial solution
 <br/>
 Since I liked the interesting pattern depicted above, I decided to do a contour plot of the equation on python for a desktop wallpaper. I used Nord's color palette to customize matplotlib's default color scheme. Below are a couple of examples. 
 <br/>
+
 ------------
+
 ## Snorlax 
 <img src = "images/snorlax.jpg?raw=true"/>
 <br/>
+
 ------------
+
 ## Minimal 
 <img src = "images/fermat_prime.png?raw=true"/>
