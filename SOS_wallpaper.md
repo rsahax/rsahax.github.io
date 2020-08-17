@@ -8,6 +8,6 @@ title: SOS wallpaper
 <img src = "images/wallpaper_art_1.png?raw=true"/>
 
 While I was working with desmos, I plotted the graph of the equation 
-<center> 
+<div align = "center"> 
 x² + y² ≡ 0 (mod p)
-<\center> 
+</div> 
