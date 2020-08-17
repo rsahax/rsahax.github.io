@@ -29,8 +29,11 @@ Based on work done freshman summer. Used GCP to train a model that implements pr
 ### Content
 
 - [LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
+- [Search Engine](/search)
 - [Contour Art: Sum of Squares](/SOS_wallpaper)
 - [Telegram StackExchange Bot](/telegram_bot)
+- [Representation Theory Summer Seminar Notes](/pdf/rep_theory.pdf)
+
 
 
 ---
