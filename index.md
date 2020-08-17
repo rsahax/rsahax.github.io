@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### CS Projects  
 
 [LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
 <img src="images/conceal_tex.gif?raw=true"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Content
 
-- [LaTeX concealer for Sublime Text 3](http://example.com/)
-- [Contour Art: Sum of Squares](http://example.com/)
+- [LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
+- [Contour Art: Sum of Squares](/SOS_wallpaper)
 - [Telegram StackExchange Bot](http://example.com/)
 
 
