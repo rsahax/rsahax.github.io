@@ -15,5 +15,5 @@ for various integers p. It turns out that this equation has non trivial solution
 <div align = "center"> 
   p ≡ 1  (<b>mod 4</b>)
 </div> 
-
+<br/><br/>
 <img src = "images/wallpaper_art_desmos.gif?raw=true"/>
