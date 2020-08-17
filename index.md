@@ -16,6 +16,10 @@
 <img src="images/telegram_bot.png?raw=true"/>
 
 ---
+### Mathematics 
+[Representation Theory Summer Seminar Notes](/pdf/rep_theory.pdf)
+
+---
 
 ### Content
 
