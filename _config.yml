@@ -1,13 +1,8 @@
 title: Rahul Saha # your name (or website title) here
-#logo: "/images/logo.png?raw=true" # your photo (or logo) here
 markdown: GFM
 logo: "/images/profile_circle-min(1).png"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello there 
-  <br><br>
-  Hio this is a me!!! 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Undergraduate student at Princeton University.   
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
