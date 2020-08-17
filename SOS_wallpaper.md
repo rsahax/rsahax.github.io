@@ -9,5 +9,5 @@ title: SOS wallpaper
 
 While I was working with desmos, I plotted the graph of the equation 
 <div align = "center"> 
-  ⌊x⌋²  +  ⌊y⌋² ≡ 0 (<b> mod p </b>)
+  ⌊x⌋²  +  ⌊y⌋² ≡ 0  (<b>mod p</b>)
 </div> 
