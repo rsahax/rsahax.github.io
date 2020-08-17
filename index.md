@@ -4,7 +4,8 @@
 
 ### CS Projects  
 
-[LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
+#### [LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
+
 <img src="images/conceal_tex.gif?raw=true"/>
 
 ---
@@ -14,6 +15,7 @@ Based on work done freshman summer. Used GCP to train a model that implements pr
 
 ---
 [Contour Art: Sum of Squares](/SOS_wallpaper)
+
 <img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
