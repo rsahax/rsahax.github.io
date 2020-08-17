@@ -12,7 +12,7 @@
 <img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
-[Telegram StackExchange Bot](http://example.com/)
+[Telegram StackExchange Bot](/telegram_bot)
 <img src="images/telegram_bot.png?raw=true"/>
 
 ---
@@ -21,14 +21,11 @@
 
 - [LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
 - [Contour Art: Sum of Squares](/SOS_wallpaper)
-- [Telegram StackExchange Bot](http://example.com/)
+- [Telegram StackExchange Bot](/telegram_bot)
 
 
 ---
 
 
-
-
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
