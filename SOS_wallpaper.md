@@ -34,3 +34,10 @@ Since I liked the interesting pattern depicted above, I decided to do a contour 
 
 ## Minimal 
 <img src = "images/fermat_prime.png?raw=true"/>
+<br/>
+
+------------
+
+## Circuit 
+<img src = "images/noisy_fermat.png?raw=true"/>
+
