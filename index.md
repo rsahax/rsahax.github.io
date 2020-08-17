@@ -12,8 +12,7 @@
 <img src="images/wallpaper_art_1.png?raw=true"/>
 
 ---
-[Telegram StackExchange Bot](/telegram_bot)
-<img src="images/telegram_bot.png?raw=true"/>
+[Search Engine](/search)
 
 ---
 ### Mathematics 
