@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [LaTeX concealer for Sublime Text 3](http://example.com/)
-- [Sum of Squares Wallpaper](http://example.com/)
+- [Contour Art: Sum of Squares](http://example.com/)
 - [Telegram StackExchange Bot](http://example.com/)
 
 
