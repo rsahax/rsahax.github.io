@@ -10,4 +10,4 @@ title: SOS wallpaper
 While I was working with desmos, I plotted the graph of the equation 
 <center> 
 x² + y² ≡ 0 (mod p)
-</center> 
+<\center> 
