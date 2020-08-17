@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[LaTeX concealer for Sublime Text 3](/sample_page)
+[LaTeX concealer for Sublime Text 3](/LaTeX_conceal)
 <img src="images/conceal_tex.gif?raw=true"/>
 
 ---
