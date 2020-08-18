@@ -13,6 +13,9 @@
 
 #### [Search Engine](/search)
 
+<img src="images/search_model.png?raw=true"/>
+</br>
+
 Based on work done freshman summer. Used GCP to train a model that implements product search with Tensorflow API. Used data from online stores as training and testing data. Used embeddings, feature extraction and sentence encoding as input to the Tensorflow model.
 
 ---
