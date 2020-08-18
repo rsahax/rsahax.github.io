@@ -21,8 +21,9 @@ Based on work done freshman summer. Used GCP to train a model that implements pr
 ---
 
 #### [Contour Art: Sum of Squares](/SOS_wallpaper)
-
-<img src="images/wallpaper_art_1.png?raw=true"/>
+<center>
+  <img src="images/wallpaper_art_1.png?raw=true"/>
+</center>
 </br>
 
 ---
