@@ -10,6 +10,8 @@ LaTeX concealer for sublime-text-3
 
 This is a personal project to replicate some of vim's <b>conceal</b> features in sublime text 3. Source code takes up a lot of spacing in LaTeX, but more importantly it also clutters the document, which makes writing documents in math cumbersome and difficult. This is an attempt to conceal source code with an UTF-8 rendered approximation. 
 
+<img src = "images/conceal_tex_3.gif?raw=true"/>
+
 The current version uses a combination of syntax fold, manipulating the color of the fold icon, and phantom objects in sublime to conceal code. 
 
 <img src = "images/conceal_tex_2.gif?raw=true"/>
