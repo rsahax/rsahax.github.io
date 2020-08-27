@@ -23,6 +23,8 @@ Below is an extremely high level view of the model.
 
 ### Model 
 
+<img src = "images/search_model.png?raw=true"/> 
+
 Created a neural network `N(q, w)` that takes a query `q` and a product `w` and outputs a score based on the likelihood of them being correlated. 
 
 ### Ranking 
